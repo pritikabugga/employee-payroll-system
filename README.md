@@ -60,9 +60,9 @@ The Employee Payroll System is a Python-based application designed to manage emp
 3. Run the Python Script: Finally, execute the Python script to start the application.
 
 ```bash
-1. pip install mysql-connector-python
-2. pip show mysql-connector-python
-3. python main.py
+pip install mysql-connector-python
+pip show mysql-connector-python
+python main.py
 ```
 ## License
 
